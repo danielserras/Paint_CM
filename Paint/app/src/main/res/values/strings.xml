@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="start_button">Start</string>
+    <string name="about">About</string>
+    <string name="settings_button">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="background_color">Change Background Color</string>
+    <string name="splash_image_description">Blue paint stretcher in center of the screen</string>
+    <string name="group">Group 17</string>
+    <string name="Daniel">Daniel Serras 53310</string>
+    <string name="AlexandreF">Alexandre Faustino 53326</string>
+    <string name="AlexandreS">Alexandre Salvador 53317</string>
+    <string name="Pedro">Pedro Almeida 53334</string>
+    <string name="Canvas">Canvas</string>
+    <string name="Palette">Palette</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Map">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="drawBtn">Start Draw</string>
+    <string name="Save">Save</string>
+    <string name="Open">Open</string>
+</resources>
